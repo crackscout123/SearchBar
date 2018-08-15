@@ -2,7 +2,6 @@
   if(isset($_POST['args'])){
     $string = $_POST['args'];
 ?>
-<DOCTYPE HTML>
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
